@@ -1,5 +1,4 @@
 
-# Sysmon
 Sysmon is a lightweight, interactive system monitor for Linux written in Python.  
 It provides real-time information about CPU, memory, disk, network, and processes — similar to `htop`, but simplified and customizable.
 
